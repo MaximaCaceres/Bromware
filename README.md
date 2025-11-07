@@ -1,2 +1,2 @@
-Buenas!! Este repo esta dedicado a pruebas que surgieron por curiosidad, ais que nada. 
+Buenas!! Este repo esta dedicado a pruebas que surgieron por curiosidad, asi que nada. 
 Aca tiro experimentos.
